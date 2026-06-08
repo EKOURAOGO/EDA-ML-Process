@@ -1,4 +1,4 @@
-# Guide EDA-ML — Exploration des Données pour le Machine Learning
+# Guide EDA-ML — Exploration des données pour le Machine Learning
 
 Guide structuré et complet pour réaliser une **Exploration des Données (EDA)** dans un projet
 de Machine Learning, avec des étapes détaillées et des exemples de code Python.
@@ -71,5 +71,5 @@ EDA-ML-Process/
 
 ## Auteur
 
-**Emmanuel KOURAOGO** — M2 IMSD
+**Emmanuel KOURAOGO** 
 [GitHub](https://github.com/EKOURAOGO) · [Email](mailto:ekouraogo73@gmail.com)
